@@ -1,3 +1,5 @@
 {
-  currentlang: "/me Language currently set to: %%LANGUAGE%%"
+  "greyuser": "Only bouncers and up can run a bot.",
+  "bouncer": "The bot can't move people when it's run as a bouncer.",
+  "online": "\/me %%BOTNAME%% v%%VERSION%% online!"
 }
